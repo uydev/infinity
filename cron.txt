@@ -1,0 +1,1 @@
+* * * * * /usr/bin/pgrep -f /home/yilmaz/Documents/infinity/index.php > /dev/null 2> /dev/null || /home/yilmaz/Documents/infinity/index.php

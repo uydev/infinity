@@ -1,0 +1,17 @@
+{
+    "name": "test/importer",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+
+    "autoload":
+    {
+    	"psr-4": {
+    		"importer\\": "src"
+    	},
+        "classmap": [
+            "src/"
+        ]
+    }
+}
